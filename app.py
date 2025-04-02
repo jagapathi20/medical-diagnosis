@@ -16,7 +16,7 @@ hide_st_style = """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
 # Adding Background Image
-background_image_url = "https://www.strategyand.pwc.com/m1/en/strategic-foresight/sector-strategies/healthcare/ai-powered-healthcare-solutions/img01-section1.jpg"  # Replace with your image URL
+background_image_url = "https://t3.ftcdn.net/jpg/05/75/99/58/360_F_575995811_NqPK9JG5cpLCpHyx3xh0aXilZ1H5GNlf.jpg"
 
 page_bg_img = f"""
 <style>
